@@ -1,4 +1,4 @@
-![]("./header_final.png")
+![]("header_final.png")
 
 <!--
 
