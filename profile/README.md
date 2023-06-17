@@ -1,4 +1,4 @@
-![Header]("https://imgur.com/a/nsdqaO4")
+![]("./header_final.png")
 
 <!--
 
